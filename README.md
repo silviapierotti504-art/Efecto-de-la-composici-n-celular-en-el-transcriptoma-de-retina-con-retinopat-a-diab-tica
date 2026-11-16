@@ -1,6 +1,6 @@
 # Deconvolución bayesiana del transcriptoma de retina humana para el análisis del estrés oxidativo en la retinopatía diabética
 
-Material complementario del Trabajo Fin de Máster de Silvia Pierotti (Máster Universitario en Bioinformática, UNIR).
+Material complementario del Trabajo Fin de Máster. Máster Universitario en Bioinformática, UNIR.
 
 ## Resumen del trabajo
 
